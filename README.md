@@ -1,12 +1,10 @@
-##Boas vindas ao meu perfil 💙💙
+Boas vindas ao meu perfil 💙💙
 
 Meu nome é Nicole Marques
 
 Estou estudando na Alura
 
 Estou me desenvolvendo na linguagem JavaScript
-![](![image](https://github.com/user-attachments/assets/3aa124b6-4e98-4b3a-9b58-22f655b25d2d)
-)
 
 Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
 <!--
